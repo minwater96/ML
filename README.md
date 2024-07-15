@@ -13,3 +13,5 @@
 
 - (03-1, basic-Regression)[03-1.ipynb]
 - (03-2, linerRegression(선형회귀))[03-2.ipynb]
+
+(03-3, liner)[03-3.ipynb]
