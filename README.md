@@ -23,3 +23,10 @@
 ## 05. Tree Algorithm
 
  - [05-1, DecisionTreeClassifier](05-1.ipynb)
+ - [05-2, GridSearchCV](05-2.ipynb)
+ - [05-3, RandomForest, ExtraTrees, GradientBoosting, HistGradientBoosting](05-3.ipynb)
+
+ ## 06. unsupervised learning
+
+ - [06-1, cluster Algorithm](06-1.ipynb)
+ - [06-2, KMeans, inertia](06-2.ipynb)
