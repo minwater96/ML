@@ -30,3 +30,4 @@
 
  - [06-1, cluster Algorithm](06-1.ipynb)
  - [06-2, KMeans, inertia](06-2.ipynb)
+ - [06-3, ??](06-3.ipynb)
