@@ -34,9 +34,7 @@
 
  ## 07. Deeplearning
 
- -[07-1, DNN model](07-1.ipynb)
- 
- -[07-2, hidden layer, optimizer](07-2.ipynb)
- 
- -[07-3, loss_val training](07-2.ipynb)
+ - [07-1, DNN model](07-1.ipynb)
+ - [07-2, hidden layer, optimizer](07-2.ipynb)
+ - [07-3, loss_val training](07-2.ipynb)
 
