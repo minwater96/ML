@@ -30,4 +30,10 @@
 
  - [06-1, cluster Algorithm](06-1.ipynb)
  - [06-2, KMeans, inertia](06-2.ipynb)
- - [06-3, ??](06-3.ipynb)
+ - [06-3, PCA](06-3.ipynb)
+
+ ## 07. Deeplearning
+
+ -[07-1, DNN model](07-1.ipynb)
+ -[07-2, hidden layer, optimizer](07-2.ipynb)
+ -[07-3, loss_val training](07-2.ipynb)
