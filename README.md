@@ -38,3 +38,6 @@
  - [07-2, hidden layer, optimizer](07-2.ipynb)
  - [07-3, loss_val training](07-2.ipynb)
 
+## 08. convolutional NN
+
+- [08-2, CNN model](08-2.ipynb)
